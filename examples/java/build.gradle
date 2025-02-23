@@ -16,4 +16,4 @@ dependencies {
 
 test {
     useJUnitPlatform()
-}
+}pip install selenium requests beautifulsoup4
